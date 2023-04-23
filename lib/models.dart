@@ -1,0 +1,3 @@
+enum Gender{FEMALE,MALE,OTHER}
+
+enum Language{UZBEK,RUSSIAN,ENGLISH,KOREAN}
